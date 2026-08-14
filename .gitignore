@@ -1,0 +1,7 @@
+# 本地自动化验证产物（不入库）
+.codex-qa/
+dist/
+
+# 系统与编辑器杂项
+Thumbs.db
+.DS_Store
